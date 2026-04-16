@@ -6,9 +6,10 @@ All user visible changes to this project will be documented in this file. This p
 
 
 
-## main
+## [0.5.0] · 2026-04-16
+[0.5.0]: https://github.com/tyranron/tracerr-rs/tree/v0.5.0
 
-[Diff](https://github.com/tyranron/tracerr-rs/compare/v0.4.0...main)
+[Diff](https://github.com/tyranron/tracerr-rs/compare/v0.4.0...v0.5.0)
 
 ### BC Breaks
 

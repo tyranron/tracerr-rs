@@ -8,7 +8,7 @@ tracerr
 [![Rust docs](https://docs.rs/tracerr/badge.svg "Rust docs")](https://docs.rs/tracerr)
 
 [API Docs](https://docs.rs/tracerr) |
-[Changelog](https://github.com/tyranron/tracerr-rs/blob/v0.4.0/CHANGELOG.md)
+[Changelog](https://github.com/tyranron/tracerr-rs/blob/v0.5.0/CHANGELOG.md)
 
 Custom compile-time captured error tracing for [Rust].
 
@@ -59,7 +59,7 @@ rust_out
 Copyright © 2019-2026 Instrumentisto Team, <https://github.com/instrumentisto>
 Copyright © 2026 Kai Ren, <https://github.com/tyranron>
 
-This software is subject to the terms of the [Blue Oak Model License 1.0.0](https://github.com/tyranron/tracerr-rs/blob/v0.4.0/LICENSE.md). If a copy of the [BlueOak-1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html) license was not distributed with this file, You can obtain one at <https://blueoakcouncil.org/license/1.0.0>.
+This software is subject to the terms of the [Blue Oak Model License 1.0.0](https://github.com/tyranron/tracerr-rs/blob/v0.5.0/LICENSE.md). If a copy of the [BlueOak-1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html) license was not distributed with this file, You can obtain one at <https://blueoakcouncil.org/license/1.0.0>.
 
 
 
