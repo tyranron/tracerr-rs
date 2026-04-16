@@ -151,9 +151,12 @@ jobs:
         with:
           toolchain: stable
 
+      - uses: rust-lang/crates-io-auth-action@v1
+        id: auth
+
       - run: cargo publish -p tracerr
         env:
-          CARGO_REGISTRY_TOKEN: ${{ secrets.CRATESIO_TOKEN }}
+          CARGO_REGISTRY_TOKEN: ${{ steps.auth.outputs.token }}
 
   release-github:
     name: release (GitHub)
