@@ -7,7 +7,7 @@ tracerr
 [![CI](https://github.com/tyranron/tracerr-rs/actions/workflows/ci.yml/badge.svg?branch=main "CI")](https://github.com/tyranron/tracerr-rs/actions?query=workflow%3ACI+branch%3Amain)
 [![Rust docs](https://docs.rs/tracerr/badge.svg "Rust docs")](https://docs.rs/tracerr)
 
-[API Docs](https://docs.rs/tracerr) |
+[API Docs](https://docs.rs/tracerr/0.5.0) |
 [Changelog](https://github.com/tyranron/tracerr-rs/blob/v0.5.0/CHANGELOG.md)
 
 Custom compile-time captured error tracing for [Rust].
