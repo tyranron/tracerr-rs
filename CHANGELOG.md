@@ -6,6 +6,20 @@ All user visible changes to this project will be documented in this file. This p
 
 
 
+## [0.5.1] · 2026-07-23
+[0.5.1]: https://github.com/tyranron/tracerr-rs/tree/v0.5.1
+
+[Diff](https://github.com/tyranron/tracerr-rs/compare/v0.5.0...v0.5.1)
+
+### Updated
+
+- [`sealed` crate] to 0.7 version. ([#19])
+
+[#19]: https://github.com/tyranron/tracerr-rs/pull/19
+
+
+
+
 ## [0.5.0] · 2026-04-16
 [0.5.0]: https://github.com/tyranron/tracerr-rs/tree/v0.5.0
 

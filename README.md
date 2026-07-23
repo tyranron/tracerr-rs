@@ -7,8 +7,8 @@ tracerr
 [![CI](https://github.com/tyranron/tracerr-rs/actions/workflows/ci.yml/badge.svg?branch=main "CI")](https://github.com/tyranron/tracerr-rs/actions?query=workflow%3ACI+branch%3Amain)
 [![Rust docs](https://docs.rs/tracerr/badge.svg "Rust docs")](https://docs.rs/tracerr)
 
-[API Docs](https://docs.rs/tracerr/0.5.0) |
-[Changelog](https://github.com/tyranron/tracerr-rs/blob/v0.5.0/CHANGELOG.md)
+[API Docs](https://docs.rs/tracerr/0.5.1) |
+[Changelog](https://github.com/tyranron/tracerr-rs/blob/v0.5.1/CHANGELOG.md)
 
 Custom compile-time captured error tracing for [Rust].
 
@@ -59,7 +59,7 @@ rust_out
 Copyright © 2019-2026 Instrumentisto Team, <https://github.com/instrumentisto>
 Copyright © 2026 Kai Ren, <https://github.com/tyranron>
 
-This software is subject to the terms of the [Blue Oak Model License 1.0.0](https://github.com/tyranron/tracerr-rs/blob/v0.5.0/LICENSE.md). If a copy of the [BlueOak-1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html) license was not distributed with this file, You can obtain one at <https://blueoakcouncil.org/license/1.0.0>.
+This software is subject to the terms of the [Blue Oak Model License 1.0.0](https://github.com/tyranron/tracerr-rs/blob/v0.5.1/LICENSE.md). If a copy of the [BlueOak-1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html) license was not distributed with this file, You can obtain one at <https://blueoakcouncil.org/license/1.0.0>.
 
 
 
